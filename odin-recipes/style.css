@@ -106,7 +106,7 @@ li{
     color:orange;
   }
 
-  .recipe-section{
+  .recipe-adobo{
     margin: 50px 25%;
   }
 
@@ -120,8 +120,23 @@ li{
     text-align: left;
     list-style:disc;
     padding-left: 25px;
+    padding-top: 10px;
   }
   .ingredients li{
-    padding-top: 15px;
+    padding-top: 10px;
   
+  }
+
+  .recipe-adobo .sub-heading{
+    padding-top:50px;
+  }
+
+  .recipe-adobo .steps{
+    font-size: larger;
+    font-weight: 600;
+    padding-top: 50px;
+  }
+
+  .recipe-adobo p{
+    text-align: justify;
   }
